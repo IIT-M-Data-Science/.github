@@ -1,4 +1,4 @@
-### Steps to join The GitHub Campus IITM Organization:
+### Steps to join The GitHub community of IIT Madras Data Science:
 
 > 1. Go to the issues tab [here](https://github.com/IIT-M-Data-Science/Support/issues).
 >   
